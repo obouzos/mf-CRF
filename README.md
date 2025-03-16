@@ -1,17 +1,6 @@
 # mf-CRF
-Code and datasets used for the paper: 
+Includes the code and fused results for the method mf-CRF of the paper:
 Conditional Random Field Model for Robust Multi-Focus Image Fusion
 
 https://ieeexplore.ieee.org/abstract/document/8737867
-
-@ARTICLE{8737867,
-  author={Bouzos, Odysseas and Andreadis, Ioannis and Mitianoudis, Nikolaos},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Conditional Random Field Model for Robust Multi-Focus Image Fusion}, 
-  year={2019},
-  volume={28},
-  number={11},
-  pages={5636-5648},
-  keywords={Transforms;Image fusion;Estimation;Minimization;High frequency;Frequency estimation;Dictionaries;Conditional random field (CRF);multi-focus image fusion;energy minimization;independent component analysis (ICA)},
-  doi={10.1109/TIP.2019.2922097}}
-
+O. Bouzos, I. Andreadis and N. Mitianoudis, "Conditional Random Field Model for Robust Multi-Focus Image Fusion," in IEEE Transactions on Image Processing, vol. 28, no. 11, pp. 5636-5648, Nov. 2019, doi: 10.1109/TIP.2019.2922097.
