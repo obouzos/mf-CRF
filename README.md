@@ -1,5 +1,6 @@
 # mf-CRF
 Includes the code and fused results for the method mf-CRF of the paper:
+
 Conditional Random Field Model for Robust Multi-Focus Image Fusion
 
 https://ieeexplore.ieee.org/abstract/document/8737867
