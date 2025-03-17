@@ -1,14 +1,28 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "mf-CRF"
+  - family-names: Bouzos
+    given-names: Odysseas
+  - family-names: Andreadis
+    given-names: Ioannis
+  - family-names: Mitianoudis
+    given-names: Nikolaos
+title: Conditional Random Field Model for Robust Multi-Focus Image Fusion
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2025-03-17
-url: "https://github.com/obouzos/mf-CRF"
+doi: 10.1109/TIP.2019.2922097
+date-released: '2019-03-17'
+preferred-citation:
+  authors:
+    - family-names: Bouzos
+      given-names: Odysseas
+    - family-names: Andreadis
+      given-names: Ioannis
+    - family-names: Mitianoudis
+      given-names: Nikolaos
+  title: Conditional Random Field Model for Robust Multi-Focus Image Fusion
+  doi: 10.1109/TIP.2019.2922097
+  type: article-journal
+  pages: 5636-5648
+  year: '2019'
+  conference: {}
+  publisher: {}
